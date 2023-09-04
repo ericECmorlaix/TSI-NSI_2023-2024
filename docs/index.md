@@ -1,0 +1,263 @@
+
+[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2023-2024"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe d'élèves de terminale SI et NSI du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets...
+
+![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
+
+***
+<!-- ## Du 27/03
+
+- [Grand Oral](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} ;
+- [Dossier social étudiant](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank} ;
+
+***
+## Le 02/03
+
+- Poursuite du travail sur l'[orientation](./orientation) :
+    - ==**Saisir** les derniers voeux sur [ParcourSup](https://www.parcoursup.fr/){target=_blank} avant le **09/03**== ;
+    - **Rédiger** ses projets de formation motivés : un [guide ONISEP](./pdf/Fiche_projet-formation-motive.pdf){target=_blank} et des [exemples](https://thotismedia.com/exemple-projet-de-formation-motive/){target=_blank}
+    ![Parcoursup-projets motives.gif](./images/Parcoursup-projets motives.gif){: .center width=70%}
+
+- **Participer** aux [activités d'escape game pour l'accueil des troisièmes](https://ericecmorlaix.github.io/accueil_3/){target=_blank} ;
+- **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+
+***
+## Le 05/01 (1h)
+
+- Poursuite du travail sur l'[orientation](./orientation) : 
+    - **faire** des `note.md` dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}, une par formation, en y incluant des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre ;
+    - **préparer** un [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/6a-Exports/#diaporama-basique){target=_blank} de votre projet d'orientation à plus ou moins long terme et des plans A, B, C, ..., que vous envisagez pour l'atteindre ;
+    - **extraire** les informations utiles à l'aide de [requêtes partagées Dataview](https://md.picasoft.net/Ccpn8zieTQGD_4fGL8mV7Q){target=_blank} pour pouvoir répondre à des questions particulières ;    
+
+***
+## Le 16/12 (2h)
+
+- Eléments d'analyse transactionnelle :
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RxEhu8hWmXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+![Adulte-Parent-Enfant](./images/AT-Image.png){.center width=60%}
+
+- Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, en y incluant des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre pour faire des requêtes avec Dataview==
+
+    - Du nouveau bientôt sur [Parcoursup 2023](./pdf/Parcoursup_2023-lettre_d'information_n%C2%B01-20221214.pdf) ;
+    - Les sessions instat Fac à Brest se poursuivent tous les mercredis entre 14h et 16h : voir les [formations présentées](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank} ;
+    - Les immersions en prépa à [Kérichen](./pdf/MINISTAGES_CPGE_KERICHEN-Lettre_aux_PROFESSEURS_PRINCIPAUX-min.pdf){target=_blank} et à [Lorient](https://www.lycee-lesage.fr/Formation/journees-dimmersion-en-cpge){target=_blank}
+
+- Vers plus de [sobriété numérique](https://ec-morlaix.github.io/info/sobre/){target=_blank} : répondre au questionnaire du [Défi du grand ménage numérique](https://forms.office.com/Pages/ResponsePage.aspx?id=15R5OuUcb0Km4-7gYW4qbK8if53guTRDmm-NDtFB1m9UQUpKN1I5V0JVVDQyTTFLSjVKNDJITEFDTiQlQCN0PWcu){target=_blank}...
+
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+
+***
+## Le 08/12 (1h)
+
+- Vie de Classe :
+
+    - questions diverses...
+    - Retours partiels de conseils de classes...
+
+- Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre.==
+
+    - Salon [SupArmor](https://www.suparmor.fr/){target=_blank} ce WE à St Brieuc ;
+    - Ouverture du catalogue Parcoursup 2023 le 20/12 ;
+    - Les sessions instat Fac à Brest se poursuivent tous les mercredis entre 14h et 16h : voir les [formations présentées](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank} ;
+
+***
+## Le 24/11 (1h)
+
+- Vie de Classe :
+    - **finir** de se préparer pour la certification [PIX](https://pix.fr/){target=_blank} programmée la semaine prochaine ;
+    - questions diverses...
+
+- Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, avec des `#tag`, toutes regroupées dans un même dossier de votre coffre.==
+    - nouvelle ressource : [https://ideo.bretagne.bzh/](https://ideo.bretagne.bzh/){target=_blank}
+
+***
+## Le 10/11 (1h)
+
+- Vie de Classe :
+    - Inscription au bac !
+    - Apporter une copie de votre attestation JDC ou recensement URGENT ‼️ 
+    - [PIX](https://pix.fr/){target=_blank} :
+        - faire la [campagne de rentrée TGT code: `SFVUCW857`](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} ;
+        - puis faire la [campagne de récolte de votre profil PIX code `HCTRFS261`](https://app.pix.fr/campagnes/HCTRFS261){target=_blank}.
+    - questions diverses...
+- [Journée nationale de lutte contre le harcèlement scolaire](https://m.facebook.com/story.php?story_fbid=pfbid0GzTZtQfeZEL2ZFeFSgGqyeKhMEiHozACS7fEvpQayt3XRCY78gfnv8wEmMMNRtxil&id=100009852780025&sfnsn=scwspmo){target=_blank}
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gFWq2W0Jly8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+- Poursuite du travail sur l'[orientation](./orientation) :
+    
+
+***
+## Le 07/11
+- Tutoriel de l'application multiplateforme [Obsidian](./Obsidian) ;
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+   
+***
+## Le 17/10
+
+- Bilan de la ["Fête de la science"](./fete_de_la_science) : :clap: :clap: :clap: ;
+
+- Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank} -> ==Synchroniser votre classeur déposé sur GitHup avec un coffre d'Obsidian localisé sur votre iPad et y apairer vos fichiers `note.ipynb` avec des `note.md` grace à jupytext dans Carnets== ;
+
+??? resume "Memo de procédure de synchronisation avec GitHub sur iPad"
+
+    Il y a une procédure spécifique pour Mobile (qui doit pouvoir s'appliquer également sur PC) :
+
+    - créer un dépôt sur GitHub (privé ou public) avec un petit README.md (c'est plus pratique) ;
+    - générer une clé d'identification sur GitHub <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
+    - créer un nouveau coffre dans Obsidian ;
+    - installer et activer le plugin "Obsidian Git" <https://github.com/denolehov/obsidian-git> ;
+    - renseigner les champs password/personal access token et username dans la configuration du plugin "Obsidian Git"
+    - puis depuis la palette de commande choisir `Obsidian Git: Clone an existing remote repo` et suivre les instructions...
+
+
+???+ tip "Comment se construire un second cerveau avec Obsidian en mode [Zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten)"
+
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B9BLia6FN4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/upyTEnzqJwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/beCbmjygkAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+- [Hommage à Samuel PATTY à 9h15](./pdf/documents_commentes_commemoration-2.pdf){target=_blank} ;
+
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+
+***
+
+## Le 14/10
+
+- Bilan de la ["Fête de la science"](./fete_de_la_science)...
+- Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank}
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRkvdtm7ybw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8bMNHR1PpLgkSs5-Bg6icsdxPGsklzai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+
+***
+## Le 13/10 (1h)
+
+- Vie de Classe :
+    - [campagne de rentrée](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} [PIX](https://pix.fr/){target=_blank} ?
+    - questions diverses...
+- Poursuite du travail sur l'[orientation](./orientation) :
+    - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11)
+
+## Le 10/10, jour J
+
+- ["Fête de la science"](./fete_de_la_science) dans l'atrium de 9h à 16h20...
+
+## Les 3 et 7/10 (1h + 2h)
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==Fin des préparatifs, installation le 7/10 à partir de 16h20==
+
+## Le 30/09 (1h30 de préparations + 0h30 pour les revues)
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==Point d'étape oral de 5 minutes sur chaque stand : ce qu'on présentera, ce que l'on fera faire aux visiteurs, ce qui est prêt, ce qui reste à préparer...==
+
+***
+## Le 29/09 (1h)
+
+- Vie de Classe : [Lettre aux élèves de terminale](./pdf/Lettre_aux_terminales.pdf){target=_blank}, questions diverses...
+- Poursuite du travail sur l'[orientation](./orientation) : [Site du CDI onglet parcours avenir](./orientation#sites-du-cdi) et [Forum en ligne](./orientation#forum-en-ligne) ;
+- PIX : se [connecter](https://pix.fr/){target=_blank} puis faire la [campagne de rentrée](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} ;
+- ...
+***
+## Du 16 au 26/09 (2h + 1h)x2
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **développer** une médiation scientifique s'apuyant sur les sujets de vos projets==
+
+
+***
+## Le 15/09 (1h)
+
+- Vie de Classe : PIX (??), questions diverses...
+- Début du travail sur l'[orientation](./orientation)
+- ...
+
+***
+## Les 09 et 12/09 (2h + 1h)
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **Initier** une TODO liste et se répartir les tâches==
+
+*** -->
+## Le 05/09
+
+- Accueil
+- [ ] Présentation du professeur principal-référent
+- Rappels
+    -	[ ] Self
+       -	Pas de vérification des régimes pour l’instant
+       -	Explications : EXT, DP2 ou 3 ou 4, DP5, INT, BOX. Changement possible au + vite. Rappel : **engagement pris pour toute l’année**.
+       -	Distribution cartes de self + consignes.
+      > Remarques : Possibilité de déjeuner au self ou à la cafétéria. Inscription possible pour les externes (et DP2 ou 3 ou 4) avant 9h sur EcoleDirecte. Rappel : **pas de modification du régime annuel**.
+    - [ ] Carnet de correspondance sur EcoleDirecte.
+    - [ ] [Lecture du règlement intérieur](https://www.ecmorlaix.fr/uploads/2018/09/2023-2024-Reglement-interieur-Lycee.pdf){target=_blank}
+    > La zone fumeurs n’est accessible qu'aux récréations.  
+    > Ce document est accessible, comme d'autres, depuis la page [informations-pratiques du site du lycée](https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/informations-pratiques/){target=_blank}
+
+    - [ ] Présentation des ressources informatiques : ENT, Drive, Ecole Directe
+    > Précision sur Ecole Directe ou panneau d’affichage pour les modifications d’EDT. Nécessité de consulter panneau d’affichage quotidiennement.  
+    > Identifiant école directe : les élèves utilisent leur propre identifiant et pas le compte “famille”.  
+    > Certificat de scolarité accessible sur Ecole Directe.
+
+    - [ ] ASSR2 (passé normalement en 3e) ?
+
+-	Options et emploi du temps
+    - [ ] Vérification des options
+    > En cas d’erreur, barrer en rouge et modifier sur document papier puis le déposer dans le casier du coordinateur de niveau pour vérification et validation.
+    > Pas de changement accepté par rapport aux choix faits à l’inscription.
+    - [ ] Distribution EDT individuels élèves + Informer les élèves concernés par des anomalies (liste définie en réunion PP)
+
+
+- [ ] Sur les heures de permanence, inscription préalable en Perm0 ou Perm1 puis possibilité de :
+    -	Travaux de groupes en Perm1 ;
+    -	Travail individuel en silence en Perm0 ;
+    -	Accès à l’Escale (foyer) et au CDI dans la limite des places disponibles.
+    > Possibilité de dispense d’étude sur présentation d’un justificatif du responsable légal pour : code, conduite, immersions… 
+- [ ] Autres documents si besoin : Décharge médicale + fiche de renseignement + autorisation de sortie – charte conducteur (à l'accueil).
+
+- [ ] Casiers
+> Constituer des binômes. Liste à transmettre à Marilyne ROCHER.
+> Attendre d’avoir un casier affecté par la vie scolaire (affichage rapide dans l’atrium).
+
+- [ ] Livres
+> A chercher en Perm1 en respectant le planning diffusé par la Vie Scolaire.
+> Faire noter les n° des manuels aux élèves dans l’agenda et compléter le fichier Excel envoyé par Anaïs BOUGUYON.
+
+- [ ] Noter les dates importantes dans l’agenda et commenter si nécessaire
+    - Photos de classe le 11/09 ;
+    - Réunion d’information aux parents :  le 27/09 en TGT à 18h ;
+    - Réunions individuelles (TGT rdv avec PR si besoin ou demande) ;
+    - Election des délégués : fin septembre ;
+    - Pas de conseil de profs mais un questionnaire à lancer aux profs pour savoir les situations à surveiller ;
+    - Période de bacs blancs : cf planning ;
+    - Fin du 1er trimestre : le 24/11 ;  
+    - Conseils de classe du 1er trimestre : semaine du 30/11 ;
+    
+- [ ] Fiche de renseignements pour l'orientation...
+
+<!-- LISTE DES DOCUMENTS A PREVOIR
+
+•	[ ] Cartes de self dans le casier du PP
+•	[ ] Liste de classe à émarger pour le règlement avec groupes et options le casier du PP
+•	[ ] EDT individuels dans le casier du PP
+•	[ ] Liste de classe pour casiers dans le casier du PP
+•	[ ] Courrier Réunion Parents 1GT-TGT dans le casier du PP
+•	[ ] Règlement intérieur via Ecole Directe
+•	[ ] Règlement intérieur à récupérer en Perm1
+•	[ ] Charte du conducteur à l'accueil -->
+
+
+
+
+
+
+
