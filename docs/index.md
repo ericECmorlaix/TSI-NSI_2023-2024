@@ -1,5 +1,5 @@
 
-[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2023-2024"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe d'élèves de terminale SI et NSI du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets...
+[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2023-2024"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse à des élèves de terminale du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets en SI et NSI...
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 
