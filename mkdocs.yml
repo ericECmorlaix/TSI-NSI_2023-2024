@@ -23,8 +23,8 @@ docs_dir: docs
 nav: 
   - Accueil : index.md
   - Orientation : orientation.md
-  # - Projets :
-      # - Village des sciences : fete_de_la_science.md
+  - Projets :
+      - Village des sciences : fete_de_la_science.md
       # - Mon projet sur GitHub : github.md
       # - Obsidian : Obsidian.md
   - TSI_2023-2024 : https://ericecmorlaix.github.io/TSI_2023-2024/
