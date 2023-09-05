@@ -1,6 +1,8 @@
 
 A l'occasion de la fête de la science, Charlène Chartier avec les secondes animation du Porsmeur en collaboration avec Typhaine Lastennet de l’espace des sciences de Morlaix vont organiser, comme l'an passé, un village des sciences sur une journée entière dans l’atrium du lycée le lundi 16 octobre 2023. 
 
+![](../images/fds_2023.png){.center}
+
 Nous accueillerions des élèves de cycle 3 et collège des établissements morlaisiens.
 
 En tant qu'élèves de terminale SI et NSI vous participerez également à cet évènement ainsi qu'au village des sciences ouvert à tous publics l'après midi du dimanche 15 octobre à la Manufacture des tabacs, futur écrin de l’Espace des sciences Morlaix.
