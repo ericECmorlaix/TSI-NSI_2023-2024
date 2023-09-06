@@ -3,6 +3,8 @@
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 
+[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
 ***
 <!-- ## Du 27/03
 
