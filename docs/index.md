@@ -257,7 +257,7 @@
     - Fin du 1er trimestre : le 24/11 ;  
     - Conseils de classe du 1er trimestre : semaine du 30/11 ;
     
-- [ ] Fiche de renseignements pour l'orientation...
+- [ ] Fiche de renseignements pour l'orientation -> ==**A réaliser** au format `Markdown` et **à transmettre** par [mail]==
 
 <!-- LISTE DES DOCUMENTS A PREVOIR
 
