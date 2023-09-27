@@ -190,7 +190,59 @@
 - Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **Initier** une TODO liste et se répartir les tâches==
 
 *** -->
+***
+## Séances SI-NSI des 27 et 29/09
 
+=== "CONTENU DE SÉANCE"
+
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science){target=_blank} mi-octobre... -> ==**Finaliser** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
+
+    > Ressources :
+    > 
+    > - **Nathan CHANUDET** [ingénieur de l'UTC](https://projet5.platform.webteknik.fr/apprenteam/){target=_blank} :
+    > [![Notre-Dame du Mur : l’équipe gagnante Prim’Team.](https://media.letelegramme.fr/api/v1/images/view/63e13fff9dc66e10b21716a2/web_golden_xl/63e13fff9dc66e10b21716a2.1){width=30% .center}](https://www.letelegramme.fr/finistere/morlaix-29600/span-classamorce-notre-dame-du-murspan-lequipe-gagnante-primteam-recherche-sponsors-3279125.php){target=_blank}
+    > - [Lego EV3 en micropython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/lego/ev3/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre tous les travaux engagés... 
+
+***
+## Vie de classe du 21/09
+
+- **Faire** la campagne de rentrée des TGT sur [PIX avec le code `JBFLVD658`](https://app.pix.fr/campagnes/JBFLVD658){target=_blank} ;
+- **Rechercher** des [formations sur ParcourSup](https://dossier.parcoursup.fr/Candidat/carte){target=_blank} ;
+
+***
+## Séances SI-NSI des 20 et 22/09
+
+=== "CONTENU DE SÉANCE"
+
+    - **Synthèse** du fonctionnement des réseaux informatiques par la pratique : [Network-Un_BN_pour_la_communication_en_reseau.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download: Télécharger le notebook : Network-Un_BN_pour_la_communication_en_reseau.ipynb)](https://ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){ .md-button .md-button--primary }
+
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) mi-octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre tous les travaux engagés... 
+
+***
+
+
+## Séances SI-NSI des 13 et 15/09
+
+=== "CONTENU DE SÉANCE"
+
+    - **Poursuivre** la découverte du fonctionnement des réseaux informatiques par la pratique : [Network-Un_BN_pour_la_communication_en_reseau.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download: Télécharger le notebook : Network-Un_BN_pour_la_communication_en_reseau.ipynb)](https://ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){ .md-button .md-button--primary } 
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre tous les travaux engagés...
+***
 ## Séances SI-NSI des 06 et 08/09
 
 === "CONTENU DE SÉANCE"
