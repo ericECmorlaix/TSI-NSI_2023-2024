@@ -201,7 +201,7 @@
     > 
     > - **Nathan CHANUDET** [ingénieur de l'UTC](https://projet5.platform.webteknik.fr/apprenteam/){target=_blank} :
     > [![Notre-Dame du Mur : l’équipe gagnante Prim’Team.](https://media.letelegramme.fr/api/v1/images/view/63e13fff9dc66e10b21716a2/web_golden_xl/63e13fff9dc66e10b21716a2.1){width=30% .center}](https://www.letelegramme.fr/finistere/morlaix-29600/span-classamorce-notre-dame-du-murspan-lequipe-gagnante-primteam-recherche-sponsors-3279125.php){target=_blank}
-    > - [Lego EV3 en micropython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/lego/ev3/){target=_blank} ;
+    > - [Lego EV3 en micropython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
@@ -247,7 +247,7 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) mi-octobre... -> ==**Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/), puis, en appliquant une [démarche agile](./fete_de_la_science/#demarche), **initier** une TODO liste et se répartir les tâches.==
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) mi-octobre... -> ==**Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/), puis, en appliquant une [démarche agile](./fete_de_la_science/#demarche), **initier** une TODO liste et se répartir les tâches.==
 
     - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-Un_BN_pour_la_communication_en_reseau.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
 
