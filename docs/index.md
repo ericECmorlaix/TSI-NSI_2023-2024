@@ -191,17 +191,24 @@
 
 *** -->
 ***
-## Séances SI-NSI des 27 et 29/09
+## Intervention du 05/10
+
+**Nathan CHANUDET** [ingénieur de l'UTC](https://projet5.platform.webteknik.fr/apprenteam/){target=_blank} :
+    > [![Notre-Dame du Mur : l’équipe gagnante Prim’Team.](https://media.letelegramme.fr/api/v1/images/view/63e13fff9dc66e10b21716a2/web_golden_xl/63e13fff9dc66e10b21716a2.1){width=30% .center}](https://www.letelegramme.fr/finistere/morlaix-29600/span-classamorce-notre-dame-du-murspan-lequipe-gagnante-primteam-recherche-sponsors-3279125.php){target=_blank}
+
+***
+## Séances SI-NSI des 27 et 29/09 et des 04/10 et 06/10
 
 === "CONTENU DE SÉANCE"
 
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science){target=_blank} mi-octobre... -> ==**Finaliser** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science){target=_blank} mi-octobre... -> ==**Finaliser** votre TODO liste, **prioriser** les tâches, **vérifier** leur faisabilité technique et développer vos solutions...==
 
-    > Ressources :
-    > 
-    > - **Nathan CHANUDET** [ingénieur de l'UTC](https://projet5.platform.webteknik.fr/apprenteam/){target=_blank} :
-    > [![Notre-Dame du Mur : l’équipe gagnante Prim’Team.](https://media.letelegramme.fr/api/v1/images/view/63e13fff9dc66e10b21716a2/web_golden_xl/63e13fff9dc66e10b21716a2.1){width=30% .center}](https://www.letelegramme.fr/finistere/morlaix-29600/span-classamorce-notre-dame-du-murspan-lequipe-gagnante-primteam-recherche-sponsors-3279125.php){target=_blank}
-    > - [Lego EV3 en micropython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+    > <u>**Ressources**</u> :
+    >  
+    > - [Lego EV3 en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+    > - [ESP32 client/serveur en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
+    > - [MIT App Inventor sans compte gmail avec l'iPad pour "Compagnon AI"](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/MIT_App_Inventor/){target=_blank} ;
+    > - [ThingSpeak](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/ThingSpeak/){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
