@@ -190,6 +190,30 @@
 - Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **Initier** une TODO liste et se répartir les tâches==
 
 *** -->
+
+## Séances SI-NSI des 11/10 et 13/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science){target=_blank} les dimanche 15 et lundi 16 octobre... :
+        - **Valider** vos solutions pour une démonstration devant **Tiphaine LASTENNET** Chargée de médiation scientifique et culturelle à l'espace des sciences de Morlaix le mercredi 11/10 en fin de matinée ;
+        - **Réaliser** un [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/DOC/diaporama/){target=_blank} ;
+        - **Organiser** l'installation matérielle à l'ancienne Manufacture des tabacs et dans l'atrium du lycée ;
+
+    > <u>**Ressources**</u> :
+    > 
+    > - [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/DOC/diaporama/){target=_blank}
+    > - [Lego EV3 en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+    > - [ESP32 client/serveur en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
+    > - [MIT App Inventor sans compte gmail avec l'iPad pour "Compagnon AI"](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/MIT_App_Inventor/){target=_blank} ;
+    > - [ThingSpeak](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/ThingSpeak/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre tous les travaux engagés... 
+
+***
+
 ***
 ## Intervention du 05/10
 
