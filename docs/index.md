@@ -191,6 +191,30 @@
 
 *** -->
 
+## Séances SI-NSI des 18/10 et 20/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Retours sur la FDS du dimanche 15 octobre :
+        -     
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science){target=_blank} reportée au lundi 13 novembre... :
+        - **Améliorer** vos solutions en embarquant plus de technicité ;
+        - **Augmenter** votre [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/DOC/diaporama/){target=_blank} avec plus de contenus théoriques ;        
+
+    > <u>**Ressources**</u> :
+    > 
+    > - [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/DOC/diaporama/){target=_blank}
+    > - [Lego EV3 en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+    > - [ESP32 client/serveur en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
+    > - [BBC micro:bit + Bluetooh avec HC05](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/UART/){target=_blank} ;
+    > - [MIT App Inventor sans compte gmail avec l'iPad pour "Compagnon AI"](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/MIT_App_Inventor/){target=_blank} ;
+    > - [ThingSpeak](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/ThingSpeak/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre tous les travaux engagés... 
+
+***
 ## Séances SI-NSI des 11/10 et 13/10
 
 === "CONTENU DE SÉANCE"
@@ -211,8 +235,6 @@
 === "TRAVAIL À FAIRE"
 
     - Poursuivre tous les travaux engagés... 
-
-***
 
 ***
 ## Intervention du 05/10

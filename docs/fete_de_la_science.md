@@ -26,7 +26,7 @@ On va essayer de coller avec le thème retenu pour la Fête de la science :
 ==Votre première mission de projet (sprint) sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs et répondant aux besoins de ateliers évoqués...==
 
 
-<!-- [Cliquer ici pour voir toute la programmation de la Fête de la science à Morlaix du 10 au 12 octobre 2022](./pdf/fds_programmation_2022_web_0.pdf){target=_blank .md-button } -->
+Cliquer les boutons pour voir toute la programmation de la Fête de la science à Morlaix [ le dimanche 15 octobre 2023](./pdf/Depliant-4-volets-FDS-2023-1.pdf){target=_blank .md-button } [ les 16 et 17 octobre 2023](./pdf/FDS2023_programme-scolaire_2023-1.pdf){target=_blank .md-button }
 
 
 ## Démarche :
@@ -53,9 +53,16 @@ Ce projet sera donc aussi l'occasion de redécouvrir et d'expérimenter les rudi
 
 Développer petit à petit de façon modulaire, par fonctionnalité...
 
+## Ressources techniques :
 
-<!-- ## Ressources techniques :
+- [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/DOC/diaporama/){target=_blank}
+- [Lego EV3 en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+- [ESP32 client/serveur en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
+- [BBC micro:bit + Bluetooh avec HC05](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/UART/){target=_blank} ;
+- [MIT App Inventor sans compte gmail avec l'iPad pour "Compagnon AI"](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/MIT_App_Inventor/){target=_blank} ;
+- [ThingSpeak](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IHM/ThingSpeak/){target=_blank} ;
 
+<!-- 
 ### LEGO EV3
 
 - [lego ev3 classroom](https://education.lego.com/fr-fr/lessons/ev3-tutorials){target=_blank}
