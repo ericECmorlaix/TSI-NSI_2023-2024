@@ -142,56 +142,34 @@
 
 - Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
    ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+*** 
+***
+## Le 15/11
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finaliser** tous les travaux engagés et se **préparer** pour une restitution orale des projets à partir du 17/11...
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finaliser** tous les travaux engagés et se **préparer** pour une restitution orale des projets à partir du 17/11... 
+
+-->
 
 ***
-## Le 13/10 (1h)
+## Le 13/11
 
-- Vie de Classe :
-    - [campagne de rentrée](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} [PIX](https://pix.fr/){target=_blank} ?
-    - questions diverses...
-- Poursuite du travail sur l'[orientation](./orientation) :
-    - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11)
+=== "CONTENU DE SÉANCE"
 
-## Le 10/10, jour J
+    - Fête de la science toute la journée dans l'Atrium ;
 
-- ["Fête de la science"](./fete_de_la_science) dans l'atrium de 9h à 16h20...
+=== "TRAVAIL À FAIRE"
 
-## Les 3 et 7/10 (1h + 2h)
-
-- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==Fin des préparatifs, installation le 7/10 à partir de 16h20==
-
-## Le 30/09 (1h30 de préparations + 0h30 pour les revues)
-
-- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==Point d'étape oral de 5 minutes sur chaque stand : ce qu'on présentera, ce que l'on fera faire aux visiteurs, ce qui est prêt, ce qui reste à préparer...==
+    - **Finaliser** tous les travaux engagés et se **préparer** pour une restitution orale des projets à partir du 17/11... 
 
 ***
-## Le 29/09 (1h)
 
-- Vie de Classe : [Lettre aux élèves de terminale](./pdf/Lettre_aux_terminales.pdf){target=_blank}, questions diverses...
-- Poursuite du travail sur l'[orientation](./orientation) : [Site du CDI onglet parcours avenir](./orientation#sites-du-cdi) et [Forum en ligne](./orientation#forum-en-ligne) ;
-- PIX : se [connecter](https://pix.fr/){target=_blank} puis faire la [campagne de rentrée](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} ;
-- ...
-***
-## Du 16 au 26/09 (2h + 1h)x2
-
-- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **développer** une médiation scientifique s'apuyant sur les sujets de vos projets==
-
-
-***
-## Le 15/09 (1h)
-
-- Vie de Classe : PIX (??), questions diverses...
-- Début du travail sur l'[orientation](./orientation)
-- ...
-
-***
-## Les 09 et 12/09 (2h + 1h)
-
-- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **Initier** une TODO liste et se répartir les tâches==
-
-*** -->
-
-## Séances SI-NSI des 18/10 et 20/10
+## Séances SI-NSI des 18 et 20/10 et 10/11
 
 === "CONTENU DE SÉANCE"
 
